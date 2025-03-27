@@ -356,3 +356,4 @@ Aqui estão algumas técnicas práticas para interpretar os Arcanos Maiores, bas
 # 📌 Conclusão
 
 Ao interpretar os Arcanos Maiores, o contexto geral da jogada é essencial — nenhuma carta deve ser lida isoladamente. O Tarô revela um fluxo de energia que se manifesta através das combinações, posições e intenções do consulente. Use os significados detalhados acima como guia, mas confie também na sua intuição para captar nuances específicas. Como Nei Naiff enfatiza, o Tarô é uma ferramenta de autoconhecimento e orientação, e sua verdadeira magia está em compreender o todo, não apenas as partes.
+*[teste](teste.md)
