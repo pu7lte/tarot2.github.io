@@ -3,7 +3,7 @@
 
 Os Arcanos Maiores representam grandes lições de vida, influências espirituais e arquétipos universais que refletem aspectos profundos da experiência humana. Eles são a espinha dorsal de uma leitura de Tarô, trazendo mensagens significativas sobre o caminho do consulente. Para interpretá-los em uma jogada, siga estes passos essenciais:
 
-1. **Identifique a energia principal**: Determine a carta central ou dominante na tiragem, que geralmente define o tom ou o tema principal da leitura.
+1. **Identifique a (energia)[energia.md] principal**: Determine a carta central ou dominante na tiragem, que geralmente define o tom ou o tema principal da leitura.
 2. **Observe as combinações**: Analise como os significados das cartas se ampliam, se complementam ou se transformam quando juntas.
 3. **Analise a sequência**: Se a tiragem sugere uma progressão (como passado, presente e futuro), observe o fluxo de eventos ou desafios indicados pelas cartas.
 
@@ -356,4 +356,3 @@ Aqui estão algumas técnicas práticas para interpretar os Arcanos Maiores, bas
 # 📌 Conclusão
 
 Ao interpretar os Arcanos Maiores, o contexto geral da jogada é essencial — nenhuma carta deve ser lida isoladamente. O Tarô revela um fluxo de energia que se manifesta através das combinações, posições e intenções do consulente. Use os significados detalhados acima como guia, mas confie também na sua intuição para captar nuances específicas. Como Nei Naiff enfatiza, o Tarô é uma ferramenta de autoconhecimento e orientação, e sua verdadeira magia está em compreender o todo, não apenas as partes.
-*[teste](teste.md)
