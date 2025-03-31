@@ -2,9 +2,9 @@
 
 # 🃏 - Acesso Rápido das Cartas:
 ## Significados
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
-|-------------|-------------|-------------|
-### **0 ou 22**: [O Louco](#0---o-louco)
+| Numero | Carta 2 |
+|--------|---------|
+| **0 ou 22**| [O Louco](#0---o-louco) |
 ### **01**: [O Mago](#i---o-mago)
 ### **02**: [A Sacerdotisa](#ii---a-sacerdotisa)
 ### **03**: [A Imperatriz](#iii---a-imperatriz)
