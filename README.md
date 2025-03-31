@@ -1,6 +1,6 @@
 # tarot2.github.io
 # 🃏 - Acesso Rápido das Cartas:
-##Significados
+## Significados
 **0 ou 22**: [O Louco](#0---o-louco)
 
 # 🔮 Como Interpretar os Arcanos Maiores nas Jogadas
