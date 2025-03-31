@@ -2,7 +2,8 @@
 
 # 🃏 - Acesso Rápido das Cartas:
 ## Significados
-| teste |
+| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+|-------------|-------------|-------------|
 ### **0 ou 22**: [O Louco](#0---o-louco)
 ### **01**: [O Mago](#i---o-mago)
 ### **02**: [A Sacerdotisa](#ii---a-sacerdotisa)
