@@ -2,7 +2,7 @@
 
 # 🃏 - Acesso Rápido das Cartas:
 ## Significados
-| Numero | Carta 2 |
+| Numero | Carta |
 |--------|---------|
 | **0 ou 22**| [O Louco](#0---o-louco) |
 |  **01**|  [O Mago](#i---o-mago) |
@@ -26,6 +26,7 @@
 |  **19**|  [O Sol](#xix---o-sol) |
 |  **20**|  [O Julgamento](#xx---o-julgamento) |
 |  **21**|  [O Mundo](#xxi---o-mundo) |
+
 # 🔮 Como Interpretar os Arcanos Maiores nas Jogadas
 
 Os Arcanos Maiores representam grandes lições de vida, influências espirituais e arquétipos universais que refletem aspectos profundos da experiência humana. Eles são a espinha dorsal de uma leitura de Tarô, trazendo mensagens significativas sobre o caminho do consulente. Para interpretá-los em uma jogada, siga estes passos essenciais:
