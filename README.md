@@ -3,7 +3,7 @@
 # 🃏 - Acesso Rápido das Cartas:
 ## Significados
 | Numero | Carta |
-|--------|---------|
+|--------|-------|
 | **0 ou 22** | [O Louco](#0---o-louco) |
 |  **01** |  [O Mago](#i---o-mago) |
 |  **02** |  [A Sacerdotisa](#ii---a-sacerdotisa) |
