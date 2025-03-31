@@ -1,7 +1,29 @@
 # tarot2.github.io
+
 # 🃏 - Acesso Rápido das Cartas:
 ## Significados
 ### **0 ou 22**: [O Louco](#0---o-louco)
+### **01**: [O Mago](#i---o-mago)
+### **02**: [A Sacerdotisa](#ii---a-sacerdotisa)
+### **03**: [A Imperatriz](#iii---a-imperatriz)
+### **04**: [O Imperador](#iv---o-imperador)
+### **05**: [O Hierofante](#v---o-hierofante)
+### **06**: [Os Enamorados](#vi---os-amantes)
+### **07**: [O Carro](#vii---o-carro-)
+### **08 ou 11**: [A Força](#viii---a-força)
+### **09**: [O Eremita](#ix---o-eremita)
+### **10**: [A roda da Fortuna](#x---a-roda-da-fortuna)
+### **11 ou 08**: [A Força](#xi---a-justiça)
+### **12**: [O Enforcado](#xii---o-enforcado)
+### **13**: [A Morte](#xiii---a-morte)
+### **14**: [A Temperança](#xiv---a-temperança)
+### **15**: [O Diabo](#xv---o-diabo)
+### **16**: [A Torre](#xvi---a-torre)
+### **17**: [A Estrela](#xvii---a-estrela)
+### **18**: [A Lua](#xviii---a-lua)
+### **19**: [O Sol](#xix---o-sol)
+### **20**: [O Julgamento](#xx---o-julgamento)
+### **21**: [O Mundo](#xxi---o-mundo)
 
 # 🔮 Como Interpretar os Arcanos Maiores nas Jogadas
 
